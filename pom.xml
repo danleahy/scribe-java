@@ -32,10 +32,12 @@
   </licenses>
 
   <scm>
-    <connection>scm:http://github.com/fernandezpablo85/scribe-java.git</connection>
-    <developerConnection>scm:http://github.com/fernandezpablo85/scribe-java.git</developerConnection>
-    <url>http://github.com/fernandezpablo85/scribe-java.git</url>
+    <connection>scm:https://github.com/danleahy/scribe-java.git</connection>
+    <developerConnection>scm: https://github.com/danleahy/scribe-java.git</developerConnection>
+    <url> https://github.com/danleahy/scribe-java.git</url>
   </scm>
+  
+ 
 
   <dependencies>
     <dependency>
